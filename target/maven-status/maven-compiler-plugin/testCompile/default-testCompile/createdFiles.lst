@@ -1,0 +1,4 @@
+stepdefinitions\CompraSteps.class
+runners\TestRunner.class
+utils\WebDriverFactory.class
+pages\DemoBlazeTests.class
